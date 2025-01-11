@@ -1,16 +1,19 @@
-## Hi there 👋
+# Youkoso! Watashi no Knowledge Society 😼
+### Here are some quick information:
+*Who is Prima Aldrin?*
+> An Electronics Engineer student 🤖 who focuses on embedded system ⚙️ and software development 🖥️
 
-<!--
-**primaaldrin/primaaldrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*What is he doing?*
+> He study 🔍 and create small projects 📝
 
-Here are some ideas to get you started:
+*Where does he work?*
+> Campus Lab 🏫 and dorm 🏡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*When did he start his interest?*
+> Since he was 16, in high school 📖
+
+*Why is he doing it?*
+> To become a scientist 🧑‍🔬, contributing to himself and people around 🌏
+
+*How is he doing it?*
+> By continuously learning 🔬, applying 🔧, and creating 🧩
